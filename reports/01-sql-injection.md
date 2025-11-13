@@ -20,10 +20,7 @@ User input is directly concatenated into SQL queries without sanitization, allow
 ## Screenshots
 
 ### Malicious Payload
-![Payload](../screenshots/01-sql-injection-payload.png)
+![Payload](../screenshots/sql-injection/01-sql-injection-payload.png)
 
 ### Successful Login
-![Success](../screenshots/02-sql-injection-success.png)
-
-### Burp Suite Analysis
-![Burp Suite](../screenshots/03-sql-injection-burp.png)
+![Success](../screenshots/sql-injection/02-sql-injection-success.png)
